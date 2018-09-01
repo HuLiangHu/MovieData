@@ -1,0 +1,5 @@
+pymysql
+lxml
+scrapy
+requests
+FontTools
